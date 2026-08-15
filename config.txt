@@ -1,0 +1,5 @@
+DLL_URL=https://cdn.discordapp.com/attachments/1503046593501331466/1538266237715611658/ZmInternal.dll?ex=6a820d92&is=6a80bc12&hm=6bcaefdc3f4682399409218c163c39886ea8b0d6530fdb1d948a506ed982b4e9&
+DLL_VERSION=3.1
+EXE_URL=https://raw.githubusercontent.com/SEU_USUARIO/smoke-updates/main/smoke.exe
+EXE_VERSION=3.1
+EXE_SHA256=COLOQUE_O_HASH_AQUI
