@@ -1,6 +1,5 @@
 DLL_URL=https://discord.com/channels/1085292863350390885/1503046594449379410/1538320686798344273
 DLL_VERSION=3.1
-EXE_URL=https://raw.githubusercontent.com/smokeutils-lgtm/SmokeUpdate
-/main/SmokeExecutor2.exe
+EXE_URL=https://raw.githubusercontent.com/smokeutils-lgtm/SmokeUpdate/main/SmokeExecutor2.exe
 EXE_VERSION=3.1
 EXE_SHA256=98a97da09110ce495559b7fcbb193cd3c117d40c3b9657e2e12fb1407d3a67e8
